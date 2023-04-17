@@ -1,0 +1,182 @@
+         ---  Exchange: Binance Futures  ---  v6.87 (24.02.2023)  --- Reg.ID: 62473  VDS Mode: YES  FreePosMode: NO
+MultiOrders: YES (cfg: YES)  XFunction: NO 
+15:13:25  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2652 Page: 3283 
+15:28:30  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2654 Page: 3285 
+15:43:30  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2654 Page: 3285 
+15:54:19  API keys valid till: 08-06-2023 05:00  (74 days)  
+15:58:30  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2655 Page: 3284 
+16:13:30  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2654 Page: 3285 
+16:28:35  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2646 Page: 3278 
+16:29:52   Signal USDT-ARB Ask:1.2768  dBTC: -0.09 dBTC5m: 0.19 dBTC1m: 0.08 24hBTC: 0.53 72hBTC: 0.52 dMarkets: 0.01 dMarkets24: 0.89  AutoStart: TRUE  Autodetect ON;  Autodetected  [ <HL-IGN0.3>Hook Long Depth: 0.32% R: 115% d: 0.30% (High: 1.2767  Min: 1.2726  Max: 1.2773  [AbsHigh: 1.2892 Drop: 303.90%] VolK: 20.09) InitialPrice: 1.2730 Buffer: [0.24%..0.40%] SellPrice: 0.10% ] (strategy <HL-IGN0.3>)
+16:29:52  ARB: PumpQ=-84296740 24vol=1198m hvol=42048 k h3vol=225816 k sellX2=7068 k PumpsCount=0 SellProb=83% Delta24h=12.13% Delta3h=4.80  d1h: 2%  d15m: 2.1%  PumpD: 0.0%  PumpHDelta: 1.4%  DumpHDelta: 0.7%
+16:29:52  ARB: [1] (20) EMAFilter: Min(5min, 1sec) = -0.63%  Max(5min, 1sec) = -1.37%  Min(15min, 1sec) = -0.63%  Max(15min, 1sec) = -2.08%  Min(30min, 1sec) = -0.63%  Max(30min, 1sec) = -2.08%  Min(60min, 1sec) = -0.53%  Max(60min, 1sec) = -2.08%  Min(1hours, 1sec) = -0.29%  Max(1hours, 1sec) = -1.77%  Min(2hours, 1sec) = 0.53%  Max(2hours, 1sec) = -2.93%  Min(3hours, 1sec) = 1.73%  Max(3hours, 1sec) = -2.93%  Min(4hours, 1sec) = 4.27%  Max(4hours, 1sec) = -2.93%  Min(6hours, 1sec) = 6.13%  Max(6hours, 1sec) = -2.93%  Min(12hours, 1sec) = 6.23%  Max(12hours, 1sec) = -2.93%  Min(24hours, 1sec) = 8.84%  Max(24hours, 1sec) = -2.93%  
+16:29:52  ARB: [1] (20) Task 20 started; USDT-ARB (strategy <HL-IGN0.3>) UseAsk: 1.2768 CurAsk: 1.2768  BUY 1.2730 (signal price -2%)
+16:29:52  ARB: [1] (20)  HistoryDataLoaded: YES 
+16:29:52  ARB: [1] (20) BuyPrice initial modifier coefficient: +0.00%  BuyModifier: +0.00%
+16:29:52  ARB: [1] (20) USDT-ARB Buy order: 38.9000 USDT-ARB rate: 1.2730 Sum: 49.52$  ID: 0 cID: emu
+16:29:52  ARB: [1] (20) BUY Order SET!
+16:29:53  ARB [1]  (20) BUY   SL:ON  TS:OFF  
+16:30:27  ARB: [1] (20) MoonHook order replacing UP on cur. price: 1.2816 Min. Ask: 1.2783 PriceBug: 0.00 Down: 0.24% Up: 0.40% pUP: 1.2732 pDown: 1.2785  [OrderPrice 1.2730 < 1.2732]  hDelta: 2.12% dBTC: 0.03 dBTC5m: 0.19 dMarket: 0.06 dMarket24: 0.92
+16:30:27  ARB: [1] (20) buy order replace request...
+16:30:27  ARB: [1] (20) buy order canceled! 
+16:30:27  ARB: [1] (20) USDT-ARB Buy order: 38.8000 USDT-ARB rate: 1.2775 Sum: 49.57$  ID: 0 cID: emu
+16:30:27  ARB: [1] (20) BUY order replaced ! 
+16:30:52  ARB: [1] (20) Auto cancel buy order activated since 60 sec. (strategy <HL-IGN0.3>) DontCancelSmall: YES q: 0.00000000
+16:30:52  ARB: [1] (20) Buy order cancel request...
+16:30:53  ARB: [1] (20) BUY order canceled (0% fill ).
+16:43:40  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2645 Page: 3276 
+16:54:20  API keys valid till: 08-06-2023 05:00  (74 days)  
+16:58:45  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2647 Page: 3279 
+17:13:45  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2647 Page: 3280 
+17:28:50  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2644 Page: 3278 
+17:43:50  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2645 Page: 3278 
+17:54:23  API keys valid till: 08-06-2023 05:00  (73 days)  
+17:58:55  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2646 Page: 3278 
+18:13:55  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2660 Page: 3294 
+18:29:00  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2656 Page: 3292 
+18:41:55   Signal USDT-BNX Ask:0.5660  dBTC: 0.47 dBTC5m: 1.01 dBTC1m: 0.15 24hBTC: 1.81 72hBTC: 1.90 dMarkets: 0.35 dMarkets24: 1.90  AutoStart: TRUE  Autodetect ON;  Autodetected  [ <HL-IGN0.3>Hook Long Depth: 0.53% R: 333% d: 0.30% (High: 0.5650  Min: 0.5620  Max: 0.5720  [AbsHigh: 0.5860 Drop: 696.28%] VolK: 6.01) InitialPrice: 0.5622 Buffer: [0.40%..0.66%] SellPrice: 0.52% ] (strategy <HL-IGN0.3>)
+18:41:55  BNX: PumpQ=-2379011 24vol=32m hvol=1184 k h3vol=3834 k sellX2=1939 k PumpsCount=0 SellProb=0% Delta24h=5.71% Delta3h=1.74  d1h: 4%  d15m: 3.8%  PumpD: 0.3%  PumpHDelta: 0.3%  DumpHDelta: 3.0%
+18:41:55  BNX: [1] (21) EMAFilter: Min(5min, 1sec) = -3.00%  Max(5min, 1sec) = -3.50%  Min(15min, 1sec) = -2.67%  Max(15min, 1sec) = -3.50%  Min(30min, 1sec) = -2.50%  Max(30min, 1sec) = -3.50%  Min(60min, 1sec) = -2.50%  Max(60min, 1sec) = -3.50%  Min(1hours, 1sec) = -1.74%  Max(1hours, 1sec) = -3.25%  Min(2hours, 1sec) = -1.57%  Max(2hours, 1sec) = -3.25%  Min(3hours, 1sec) = -1.57%  Max(3hours, 1sec) = -3.25%  Min(4hours, 1sec) = -1.57%  Max(4hours, 1sec) = -3.90%  Min(6hours, 1sec) = -1.57%  Max(6hours, 1sec) = -3.90%  Min(12hours, 1sec) = -1.05%  Max(12hours, 1sec) = -3.90%  Min(24hours, 1sec) = 1.07%  Max(24hours, 1sec) = -4.39%  
+18:41:55  BNX: [1] (21) Task 21 started; USDT-BNX (strategy <HL-IGN0.3>) UseAsk: 0.5660 CurAsk: 0.5660  BUY 0.5622 (signal price -2%)
+18:41:55  BNX: [1] (21)  HistoryDataLoaded: YES 
+18:41:55  BNX: [1] (21) BuyPrice initial modifier coefficient: +0.00%  BuyModifier: +0.00%
+18:41:55  BNX: [1] (21) USDT-BNX Buy order: 88.1000 USDT-BNX rate: 0.5620 Sum: 49.51$  ID: 0 cID: emu
+18:41:55  BNX: [1] (21) BUY Order SET!
+18:41:55  BNX [1]  (21) BUY   SL:ON  TS:OFF  
+18:42:26  BNX: [1] (21) MoonHook order replacing UP on cur. price: 0.5770 Min. Ask: 0.5690 PriceBug: 0.00 Down: 0.40% Up: 0.66% pUP: 0.5652 pDown: 0.5747  [OrderPrice 0.5620 < 0.5652]  hDelta: 3.71% dBTC: 0.50 dBTC5m: 1.01 dMarket: 0.43 dMarket24: 1.94
+18:42:26  BNX: [1] (21) buy order replace request...
+18:42:26  BNX: [1] (21) buy order canceled! 
+18:42:26  BNX: [1] (21) USDT-BNX Buy order: 86.3000 USDT-BNX rate: 0.5740 Sum: 49.54$  ID: 0 cID: emu
+18:42:26  BNX: [1] (21) BUY order replaced ! 
+18:42:47  BNX: [1] (21) MoonHook order replacing DOWN on cur. price: 0.5760 PriceBug: 0.00 PriceHigh: 0.40% PriceLo: 0.66% pUP: 0.5712 pDown: 0.5737  [OrderPrice 0.5740 > 0.5737]  hDelta: 3.71% dBTC: 0.46 dBTC5m: 1.01 dMarket: 0.42 dMarket24: 1.95
+18:42:47  BNX: [1] (21) buy order replace request...
+18:42:47  BNX: [1] (21) buy order canceled! 
+18:42:47  BNX: [1] (21) USDT-BNX Buy order: 86.4000 USDT-BNX rate: 0.5730 Sum: 49.51$  ID: 0 cID: emu
+18:42:47  BNX: [1] (21) BUY order replaced ! 
+18:42:49  BNX: [1] (21) MoonHook order replacing DOWN on cur. price: 0.5750 PriceBug: 0.00 PriceHigh: 0.40% PriceLo: 0.66% pUP: 0.5712 pDown: 0.5727  [OrderPrice 0.5730 > 0.5727]  hDelta: 3.71% dBTC: 0.48 dBTC5m: 1.01 dMarket: 0.42 dMarket24: 1.95
+18:42:49  BNX: [1] (21) buy order replace request...
+18:42:49  BNX: [1] (21) buy order canceled! 
+18:42:49  BNX: [1] (21) USDT-BNX Buy order: 86.6000 USDT-BNX rate: 0.5720 Sum: 49.54$  ID: 0 cID: emu
+18:42:49  BNX: [1] (21) BUY order replaced ! 
+18:42:55  BNX: [1] (21) Auto cancel buy order activated since 60 sec. (strategy <HL-IGN0.3>) DontCancelSmall: YES q: 0.00000000
+18:42:55  BNX: [1] (21) Buy order cancel request...
+18:42:55  BNX: [1] (21) BUY order canceled (0% fill ).
+18:44:05  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2641 Page: 3267 
+18:54:26  API keys valid till: 08-06-2023 05:00  (73 days)  
+18:59:10  [Memory] UsedMem App: 283  Sys: 379  FreeMem Phys: 2652 Page: 3286 
+19:14:10  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2654 Page: 3287 
+19:29:15  [Memory] UsedMem App: 283  Sys: 377  FreeMem Phys: 2645 Page: 3280 
+19:32:47   Signal USDT-MKR Ask:672.10  dBTC: -0.82 dBTC5m: 0.91 dBTC1m: 0.58 24hBTC: 0.87 72hBTC: 1.01 dMarkets: -0.67 dMarkets24: 1.22  AutoStart: TRUE  Autodetect ON;  Autodetected  [ <HL-IGN0.3>Hook Long Depth: 0.31% R: 95% d: 0.30% (High: 671.70  Min: 669.60  Max: 671.60  [AbsHigh: 678.50 Drop: 322.80%] VolK: 7.14) InitialPrice: 669.81 Buffer: [0.23%..0.39%] SellPrice: 0.08% ] (strategy <HL-IGN0.3>)
+19:32:47  MKR: PumpQ=-5200133 24vol=34m hvol=2596 k h3vol=6409 k sellX2=1288 k PumpsCount=0 SellProb=72% Delta24h=4.83% Delta3h=2.84  d1h: 2%  d15m: 1.2%  PumpD: 0.0%  PumpHDelta: 1.3%  DumpHDelta: 0.5%
+19:32:47  MKR: [1] (22) EMAFilter: Min(5min, 1sec) = -0.67%  Max(5min, 1sec) = -1.18%  Min(15min, 1sec) = -0.67%  Max(15min, 1sec) = -1.23%  Min(30min, 1sec) = -0.67%  Max(30min, 1sec) = -1.73%  Min(60min, 1sec) = -0.42%  Max(60min, 1sec) = -1.73%  Min(1hours, 1sec) = 0.31%  Max(1hours, 1sec) = -1.03%  Min(2hours, 1sec) = 0.31%  Max(2hours, 1sec) = -1.03%  Min(3hours, 1sec) = 1.05%  Max(3hours, 1sec) = -1.03%  Min(4hours, 1sec) = 1.05%  Max(4hours, 1sec) = -1.03%  Min(6hours, 1sec) = 1.14%  Max(6hours, 1sec) = -1.03%  Min(12hours, 1sec) = 1.42%  Max(12hours, 1sec) = -1.03%  Min(24hours, 1sec) = 3.01%  Max(24hours, 1sec) = -1.03%  
+19:32:47  MKR: [1] (22) Task 22 started; USDT-MKR (strategy <HL-IGN0.3>) UseAsk: 671.80 CurAsk: 672.10  BUY 669.81 (signal price -2%)
+19:32:47  MKR: [1] (22)  HistoryDataLoaded: YES 
+19:32:47  MKR: [1] (22) BuyPrice initial modifier coefficient: +0.01%  BuyModifier: +0.00%
+19:32:47  MKR: [1] (22) USDT-MKR Buy order: 0.0080 USDT-MKR rate: 669.80 Sum: 5.36$  ID: 0 cID: emu
+19:32:47  MKR: [1] (22) BUY Order SET!
+19:32:47  MKR [1]  (22) BUY   SL:ON  TS:OFF  
+19:32:50  MKR: [1] (22) MoonHook order replacing DOWN on cur. price: 669.60 PriceBug: 0.03 PriceHigh: 0.23% PriceLo: 0.39% pUP: 666.98 pDown: 668.03  [OrderPrice 669.80 > 668.03]  hDelta: 1.78% dBTC: -0.79 dBTC5m: 0.91 dMarket: -0.61 dMarket24: 1.22
+19:32:50  MKR: [1] (22) buy order replace request...
+19:32:50  MKR: [1] (22) buy order canceled! 
+19:32:50  MKR: [1] (22) Looks like order was done while replacing, rest quantity too low
+19:32:50  MKR: [1] (22) Buy order DONE! FILL: 100%  Opened: 19:32:47.097 Quantity: 0.00800000 Sum: 5.36$ Avg.Price: 669.80 (ASK + 0% )
+19:32:50  MKR: [1] (22)   OrderCheck: vol: 0.00800000  ActualQ: 0.00800000  BTCvol: 5.36054336   TotalBTC: 5.36054336 -- vols:  wsQ: 0.00800000 wsBTC: 5.36054336 tBTC: 5.36054336
+19:32:50  MKR: [1] (22) Using (strategy <HL-IGN0.3>) Sell Price: 670.37 (+0.08%)
+19:32:50  MKR: [1] (22) USDT-MKR Sell order: 0.0080 USDT-MKR rate: 670.40 Sum: 5.36$  ID: 0 cID: emu
+19:32:50  MKR: [1] (22)   *** SELL order Set ! ***  Quantity: 0.00800000 Price: 670.40
+19:32:50  MKR [1]  (22) SELL   SL:ON  TS:OFF  
+19:32:50  MKR [1] (22) : Selling 0.00000000   Pos: 0.00000000  
+19:32:50  MKR: [1] (22)   OrderCheck: vol: 0.00800000  ActualQ: 0.00800000  BTCvol: 5.36505312   TotalBTC: 5.36505312 -- vols:  wsQ: 0.00800000 wsBTC: 5.36505312 tBTC: 5.36505312
+19:32:50  MKR: [1] (22)   *** SELL order DONE ! ***  Quantity: 0.0080 Avg.Price: 670.90 Sum: 5.37$ Delta: 0.00$  wsQ:0.0080 wsBTC: 5.37$ rQ: 0.00000000
+19:32:50  MKR: [1] (22)   *** Sell/Buy: + 0%
+19:32:50  MKR: [1] (22)   *** Sell/ASK: + 0%
+19:32:50    *** Sell #MKR done, total:  + 0.00 $ (+0.1%) 
+19:44:15  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2212 Page: 2935 
+19:52:39   Signal USDT-LUNA2 Ask:1.2982  dBTC: -0.78 dBTC5m: 0.64 dBTC1m: 0.29 24hBTC: 0.58 72hBTC: 0.73 dMarkets: -1.09 dMarkets24: 0.50  AutoStart: TRUE  Autodetect ON;  Autodetected  [ <HL-IGN0.3>Hook Long Depth: 0.36% R: 93% d: 0.31% (High: 1.2981  Min: 1.2935  Max: 1.2978  [AbsHigh: 1.3149 Drop: 363.92%] VolK: 16.42) InitialPrice: 1.2940 Buffer: [0.27%..0.44%] SellPrice: 0.10% ] (strategy <HL-IGN0.3>)
+19:52:39  LUNA2: PumpQ=-2099016 24vol=36m hvol=1046 k h3vol=2504 k sellX2=827 k PumpsCount=0 SellProb=100% Delta24h=6.53% Delta3h=1.36  d1h: 2%  d15m: 1.6%  PumpD: 0.1%  PumpHDelta: 0.4%  DumpHDelta: 1.8%
+19:52:39  LUNA2: [1] (23) EMAFilter: Min(5min, 1sec) = -1.08%  Max(5min, 1sec) = -1.53%  Min(15min, 1sec) = -1.08%  Max(15min, 1sec) = -1.53%  Min(30min, 1sec) = -1.00%  Max(30min, 1sec) = -1.98%  Min(60min, 1sec) = -1.00%  Max(60min, 1sec) = -2.31%  Min(1hours, 1sec) = -1.41%  Max(1hours, 1sec) = -2.02%  Min(2hours, 1sec) = -1.41%  Max(2hours, 1sec) = -2.32%  Min(3hours, 1sec) = -1.32%  Max(3hours, 1sec) = -2.32%  Min(4hours, 1sec) = -1.08%  Max(4hours, 1sec) = -2.32%  Min(6hours, 1sec) = -0.67%  Max(6hours, 1sec) = -2.32%  Min(12hours, 1sec) = -0.67%  Max(12hours, 1sec) = -3.20%  Min(24hours, 1sec) = 2.59%  Max(24hours, 1sec) = -3.71%  
+19:52:39  LUNA2: [1] (23) Task 23 started; USDT-LUNA2 (strategy <HL-IGN0.3>) UseAsk: 1.2982 CurAsk: 1.2982  BUY 1.2940 (signal price -2%)
+19:52:39  LUNA2: [1] (23)  HistoryDataLoaded: YES 
+19:52:39  LUNA2: [1] (23) BuyPrice initial modifier coefficient: +0.02%  BuyModifier: +0.00%
+19:52:39  LUNA2: [1] (23) USDT-LUNA2 Buy order: 4.0000 USDT-LUNA2 rate: 1.2940 Sum: 5.18$  ID: 0 cID: emu
+19:52:39  LUNA2: [1] (23) BUY Order SET!
+19:52:39  LUNA2 [1]  (23) BUY   SL:ON  TS:OFF  
+19:52:39  LUNA2: [1] (23) MoonHook order replacing DOWN on cur. price: 1.2968 PriceBug: 0.24 PriceHigh: 0.27% PriceLo: 0.44% pUP: 1.2878 pDown: 1.2934  [OrderPrice 1.2940 > 1.2934]  hDelta: 2.38% dBTC: -0.78 dBTC5m: 0.64 dMarket: -1.09 dMarket24: 0.50
+19:52:39  LUNA2: [1] (23) buy order replace request...
+19:52:39  LUNA2: [1] (23) buy order canceled! 
+19:52:39  LUNA2: [1] (23) USDT-LUNA2 Buy order: 4.0000 USDT-LUNA2 rate: 1.2921 Sum: 5.17$  ID: 0 cID: emu
+19:52:39  LUNA2: [1] (23) BUY order replaced ! 
+19:53:11  LUNA2: [1] (23) MoonHook order replacing UP on cur. price: 1.3007 Min. Ask: 1.2982 PriceBug: 0.06 Down: 0.27% Up: 0.44% pUP: 1.2924 pDown: 1.2972  [OrderPrice 1.2921 < 1.2924]  hDelta: 2.32% dBTC: -0.79 dBTC5m: 0.64 dMarket: -1.10 dMarket24: 0.47
+19:53:11  LUNA2: [1] (23) buy order replace request...
+19:53:11  LUNA2: [1] (23) buy order canceled! 
+19:53:12  LUNA2: [1] (23) USDT-LUNA2 Buy order: 4.0000 USDT-LUNA2 rate: 1.2961 Sum: 5.18$  ID: 0 cID: emu
+19:53:12  LUNA2: [1] (23) BUY order replaced ! 
+19:53:39  LUNA2: [1] (23) Auto cancel buy order activated since 60 sec. (strategy <HL-IGN0.3>) DontCancelSmall: YES q: 0.00000000
+19:53:39  LUNA2: [1] (23) Buy order cancel request...
+19:53:39  LUNA2: [1] (23) BUY order canceled (0% fill ).
+19:54:29  API keys valid till: 08-06-2023 05:00  (73 days)  
+19:59:20  [Memory] UsedMem App: 283  Sys: 379  FreeMem Phys: 2255 Page: 2961 
+20:14:25  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2253 Page: 2959 
+20:29:25  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2242 Page: 2949 
+20:44:30  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2251 Page: 2961 
+20:54:31  API keys valid till: 08-06-2023 05:00  (73 days)  
+20:59:30  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2251 Page: 2961 
+21:14:35  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2250 Page: 2961 
+21:29:40  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2249 Page: 2960 
+21:37:23   Signal USDT-HIGH Ask:2.0740  dBTC: -0.06 dBTC5m: 0.18 dBTC1m: 0.04 24hBTC: 0.69 72hBTC: 0.83 dMarkets: -0.06 dMarkets24: 0.58  AutoStart: TRUE  Autodetect ON;  Autodetected  [ <HL-IGN0.3>Hook Long Depth: 0.44% R: 89% d: 0.30% (High: 2.0730  Min: 2.0640  Max: 2.0720  [AbsHigh: 2.0780 Drop: 55.31%] VolK: 43.49) InitialPrice: 2.0643 Buffer: [0.33%..0.54%] SellPrice: 0.13% ] (strategy <HL-IGN0.3>)
+21:37:23  HIGH: PumpQ=-2240365 24vol=12m hvol=1117 k h3vol=2654 k sellX2=1270 k PumpsCount=0 SellProb=56% Delta24h=6.24% Delta3h=4.35  d1h: 2%  d15m: 0.7%  PumpD: 0.0%  PumpHDelta: 0.3%  DumpHDelta: 1.6%
+21:37:23  HIGH: [1] (24) EMAFilter: Min(5min, 1sec) = -0.17%  Max(5min, 1sec) = -0.70%  Min(15min, 1sec) = -0.02%  Max(15min, 1sec) = -0.70%  Min(30min, 1sec) = -0.02%  Max(30min, 1sec) = -1.17%  Min(60min, 1sec) = -0.02%  Max(60min, 1sec) = -1.87%  Min(1hours, 1sec) = -1.38%  Max(1hours, 1sec) = -2.54%  Min(2hours, 1sec) = -1.38%  Max(2hours, 1sec) = -4.16%  Min(3hours, 1sec) = -1.38%  Max(3hours, 1sec) = -4.16%  Min(4hours, 1sec) = -1.38%  Max(4hours, 1sec) = -4.16%  Min(6hours, 1sec) = -1.38%  Max(6hours, 1sec) = -4.16%  Min(12hours, 1sec) = -1.10%  Max(12hours, 1sec) = -4.16%  Min(24hours, 1sec) = 1.82%  Max(24hours, 1sec) = -4.16%  
+21:37:23  HIGH: [1] (24) Task 24 started; USDT-HIGH (strategy <HL-IGN0.3>) UseAsk: 2.0730 CurAsk: 2.0740  BUY 2.0643 (signal price -2%)
+21:37:23  HIGH: [1] (24)  HistoryDataLoaded: YES 
+21:37:23  HIGH: [1] (24) BuyPrice initial modifier coefficient: +0.00%  BuyModifier: +0.00%
+21:37:23  HIGH: [1] (24) USDT-HIGH Buy order: 24.0000 USDT-HIGH rate: 2.0640 Sum: 49.54$  ID: 0 cID: emu
+21:37:23  HIGH: [1] (24) BUY Order SET!
+21:37:23  HIGH [1]  (24) BUY   SL:ON  TS:OFF  
+21:37:26  HIGH: [1] (24) MoonHook order replacing DOWN on cur. price: 2.0700 PriceBug: 0.00 PriceHigh: 0.33% PriceLo: 0.54% pUP: 2.0528 pDown: 2.0633  [OrderPrice 2.0640 > 2.0633]  hDelta: 1.88% dBTC: -0.06 dBTC5m: 0.18 dMarket: -0.06 dMarket24: 0.58
+21:37:26  HIGH: [1] (24) buy order replace request...
+21:37:26  HIGH: [1] (24) buy order canceled! 
+21:37:26  HIGH: [1] (24) USDT-HIGH Buy order: 24.0000 USDT-HIGH rate: 2.0610 Sum: 49.46$  ID: 0 cID: emu
+21:37:26  HIGH: [1] (24) BUY order replaced ! 
+21:37:30  HIGH: [1] (24) MoonHook order replacing DOWN on cur. price: 2.0670 PriceBug: 0.00 PriceHigh: 0.33% PriceLo: 0.54% pUP: 2.0528 pDown: 2.0603  [OrderPrice 2.0610 > 2.0603]  hDelta: 2.01% dBTC: -0.06 dBTC5m: 0.18 dMarket: -0.06 dMarket24: 0.58
+21:37:30  HIGH: [1] (24) buy order replace request...
+21:37:30  HIGH: [1] (24) buy order canceled! 
+21:37:30  HIGH: [1] (24) USDT-HIGH Buy order: 24.1000 USDT-HIGH rate: 2.0580 Sum: 49.60$  ID: 0 cID: emu
+21:37:30  HIGH: [1] (24) BUY order replaced ! 
+21:38:12  HIGH: [1] (24) MoonHook order replacing UP on cur. price: 2.0710 Min. Ask: 2.0700 PriceBug: 0.00 Down: 0.33% Up: 0.54% pUP: 2.0588 pDown: 2.0643  [OrderPrice 2.0580 < 2.0588]  hDelta: 2.13% dBTC: -0.01 dBTC5m: 0.18 dMarket: 0.00 dMarket24: 0.64
+21:38:12  HIGH: [1] (24) buy order replace request...
+21:38:12  HIGH: [1] (24) buy order canceled! 
+21:38:12  HIGH: [1] (24) USDT-HIGH Buy order: 24.0000 USDT-HIGH rate: 2.0620 Sum: 49.49$  ID: 0 cID: emu
+21:38:12  HIGH: [1] (24) BUY order replaced ! 
+21:38:23  HIGH: [1] (24) Auto cancel buy order activated since 60 sec. (strategy <HL-IGN0.3>) DontCancelSmall: YES q: 0.00000000
+21:38:23  HIGH: [1] (24) Buy order cancel request...
+21:38:23  HIGH: [1] (24) BUY order canceled (0% fill ).
+21:44:45  [Memory] UsedMem App: 283  Sys: 378  FreeMem Phys: 2247 Page: 2958 
+21:54:33  API keys valid till: 08-06-2023 05:00  (73 days)  
+21:59:49   Signal USDT-NEO Ask:12.020  dBTC: -0.57 dBTC5m: 0.53 dBTC1m: 0.54 24hBTC: 0.19 72hBTC: 0.33 dMarkets: -0.51 dMarkets24: 0.11  AutoStart: TRUE  Autodetect ON;  Autodetected  [ <HL-IGN0.3>Hook Long Depth: 0.40% R: 123% d: 0.34% (High: 12.027  Min: 11.979  Max: 12.038  [AbsHigh: 12.075 Drop: 99.60%] VolK: 40.80) InitialPrice: 11.984 Buffer: [0.30%..0.50%] SellPrice: 0.14% ] (strategy <HL-IGN0.3>)
+21:59:49  NEO: PumpQ=-2023455 24vol=37m hvol=1007 k h3vol=6591 k sellX2=1053 k PumpsCount=0 SellProb=56% Delta24h=5.94% Delta3h=2.87  d1h: 1%  d15m: 1.0%  PumpD: 0.0%  PumpHDelta: 0.3%  DumpHDelta: 1.3%
+21:59:49  NEO: [1] (25) EMAFilter: Min(5min, 1sec) = -0.20%  Max(5min, 1sec) = -0.60%  Min(15min, 1sec) = -0.20%  Max(15min, 1sec) = -0.89%  Min(30min, 1sec) = -0.20%  Max(30min, 1sec) = -1.00%  Min(60min, 1sec) = -0.20%  Max(60min, 1sec) = -1.18%  Min(1hours, 1sec) = -0.36%  Max(1hours, 1sec) = -1.84%  Min(2hours, 1sec) = -0.36%  Max(2hours, 1sec) = -3.14%  Min(3hours, 1sec) = -0.36%  Max(3hours, 1sec) = -3.14%  Min(4hours, 1sec) = -0.13%  Max(4hours, 1sec) = -3.14%  Min(6hours, 1sec) = 0.63%  Max(6hours, 1sec) = -3.14%  Min(12hours, 1sec) = 0.98%  Max(12hours, 1sec) = -3.14%  Min(24hours, 1sec) = 2.61%  Max(24hours, 1sec) = -3.14%  
+21:59:49  NEO: [1] (25) Task 25 started; USDT-NEO (strategy <HL-IGN0.3>) UseAsk: 12.020 CurAsk: 12.020  BUY 11.984 (signal price -2%)
+21:59:49  NEO: [1] (25)  HistoryDataLoaded: YES 
+21:59:49  NEO: [1] (25) BuyPrice initial modifier coefficient: +0.08%  BuyModifier: +0.00%
+21:59:49  NEO: [1] (25) USDT-NEO Buy order: 0.4200 USDT-NEO rate: 11.984 Sum: 5.03$  ID: 0 cID: emu
+21:59:49  NEO: [1] (25) BUY Order SET!
+21:59:49  NEO [1]  (25) BUY   SL:ON  TS:OFF  
+21:59:49  NEO: [1] (25) MoonHook order replacing DOWN on cur. price: 12.017 PriceBug: 0.85 PriceHigh: 0.30% PriceLo: 0.50% pUP: 11.919 pDown: 11.981  [OrderPrice 11.984 > 11.981]  hDelta: 1.21% dBTC: -0.57 dBTC5m: 0.53 dMarket: -0.51 dMarket24: 0.11
+21:59:49  NEO: [1] (25) buy order replace request...
+21:59:49  NEO: [1] (25) buy order canceled! 
+21:59:49  NEO: [1] (25) USDT-NEO Buy order: 0.4200 USDT-NEO rate: 11.963 Sum: 5.02$  ID: 0 cID: emu
+21:59:49  NEO: [1] (25) BUY order replaced ! 
+21:59:50  [Memory] UsedMem App: 283  Sys: 379  FreeMem Phys: 2245 Page: 2958 
+22:00:22  NEO: [1] (25) MoonHook order replacing UP on cur. price: 12.042 Min. Ask: 12.026 PriceBug: 0.42 Down: 0.30% Up: 0.50% pUP: 11.966 pDown: 12.006  [OrderPrice 11.963 < 11.966]  hDelta: 1.30% dBTC: -0.35 dBTC5m: 0.53 dMarket: -0.43 dMarket24: 0.10
+22:00:22  NEO: [1] (25) buy order replace request...
+22:00:22  NEO: [1] (25) buy order canceled! 
+22:00:22  NEO: [1] (25) USDT-NEO Buy order: 0.4200 USDT-NEO rate: 11.994 Sum: 5.04$  ID: 0 cID: emu
+22:00:22  NEO: [1] (25) BUY order replaced ! 
+22:00:41  NEO: [1] (25) MoonHook order replacing DOWN on cur. price: 12.030 PriceBug: 0.21 PriceHigh: 0.30% PriceLo: 0.50% pUP: 11.970 pDown: 11.994  [OrderPrice 11.994 > 11.994]  hDelta: 1.30% dBTC: -0.34 dBTC5m: 0.53 dMarket: -0.40 dMarket24: 0.15
+22:00:41  NEO: [1] (25) buy order replace request...
+22:00:41  NEO: [1] (25) buy order canceled! 
+22:00:42  NEO: [1] (25) USDT-NEO Buy order: 0.4200 USDT-NEO rate: 11.982 Sum: 5.03$  ID: 0 cID: emu
+22:00:42  NEO: [1] (25) BUY order replaced ! 
+22:00:49  NEO: [1] (25) Auto cancel buy order activated since 60 sec. (strategy <HL-IGN0.3>) DontCancelSmall: YES q: 0.00000000
+22:00:49  NEO: [1] (25) Buy order cancel request...
+22:00:49  NEO: [1] (25) BUY order canceled (0% fill ).
